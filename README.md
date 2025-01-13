@@ -1,6 +1,6 @@
 # Tower Defense
 
-Developed with Unreal Engine 5.
+Developed with Unreal Engine 5 (v5.5.1).
 
 All custom Blueprints are located in the `TowerDefense` folder.
 
