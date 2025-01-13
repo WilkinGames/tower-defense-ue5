@@ -8,7 +8,7 @@ All custom Blueprints are located in the `TowerDefense` folder.
 
 - The player controls a 3rd person character with 2 default abilities: **Projectile** (Left Mouse) and **Stun** (Right Mouse)
 - The player earns money by killing enemies and completing waves
-- Defense tower bases are set in fixed points and be upgraded by pressing **E** near them (opens the `BuyMenu`)
+- Defense towers are set in fixed points and can be upgraded by pressing **E** near them (opens the `BuyMenu`)
 - The player can select different tower types in the `BuyMenu`
 - When an enemy reaches the player base, a life is lost
 - Unlimited waves (endless survival) with 5 second intermission time between waves
