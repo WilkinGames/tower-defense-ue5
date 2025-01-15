@@ -59,7 +59,7 @@ UI element which displays when the player touches something that can be interect
 
 #### `HealthBar_Widget`
 
-Enemy health bars which actually exist in the world but rotate to face the player camera for a stylistic feel (as opposed to using a stricly UI element).
+Enemy health bars which actually exist in the world but rotate to face the player camera for a stylistic feel (as opposed to using a strictly UI element).
 
 #### `ObjectIndicator`
 
